@@ -12,18 +12,18 @@
 
 ## How to use this template:
 Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+We have provided a sample Day Journey entry starting at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Steven's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi, I'm Steven an aspiring Cloud Engineer looking to learn and grown in the cloud environment and be a part of communities.
 
-[✍️ Tell us why you started this challenge]
+I started the challenge to show that I am serious about learning and find a career.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I would like to have join a team in a cloud role and gain more certifications.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter] [@Steve__O24](https://twitter.com/steve__o24)
+- [LinkedIn] (https://www.linkedin.com/in/steven-winters-5719548a/)
 
 ## Stepping out the door
 
