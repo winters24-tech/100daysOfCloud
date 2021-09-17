@@ -1,5 +1,5 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858389-3b2f8904-a7bf-42e6-b80f-819056974ab8.png)
 
 # Creating a Lambda Function Using The AWS Console
 
@@ -22,27 +22,30 @@ Before starting this lab it would best to know what Lambda is and the many funct
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://user-images.githubusercontent.com/82731990/133858389-3b2f8904-a7bf-42e6-b80f-819056974ab8.png)
-com/500x300)
-
-### Step 2 — Summary of Step
+### Step 1 — Creating the Lambda function using "author from scratch" and using "node.js"
 
 ![Screenshot](https://user-images.githubusercontent.com/82731990/133858502-4a9112a5-1eb5-4c9a-bada-3fb8b078039b.png)
 r.com/500x300)
 
-### Step 3 — Summary of Step
+### Step 2 — Showing the function successfully created.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858723-6ffffb33-3052-41e1-b3ae-3b688a2008d5.png)
+placeholder.com/500x300)
 
-### Step 4 — Summary of Step
+### Step 3 — Creating the test event to capture the status code of the website.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858739-64b02dcb-499b-4abe-b7f8-788f59583e13.png)
+aceholder.com/500x300)
 
-### Step 5 — Summary of Step
+### Step 4 — After creating the test event you can see that test came back with the status code of "200" meaning the site is up running actively.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858772-c2bc53be-310b-4a38-a5d4-032017622ee6.png)
+older.com/500x300)
+
+### Step 5 — Checking the CloudWatch Logs for the function, viewing the log streams.
+
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858949-2133065b-7e44-4581-95be-a4564e7771a6.png)
+er.com/500x300)
 
 ## ☁️ Cloud Outcome
 
