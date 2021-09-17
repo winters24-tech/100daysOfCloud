@@ -1,15 +1,15 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Creating a Lambda Function Using The AWS Console
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today I chose creating a Lambda function just wanting to learn the biggest serverless compute service. This allows me to see how to utilize the Lambda service and functions and this particular lab was based on a url checker to see how a website would return the status code of the site.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Before starting this lab it would best to know what Lambda is and the many functions and abilities it work with.
 
 ## Use Case
 
@@ -21,15 +21,12 @@
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+### Step 2 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
@@ -43,10 +40,11 @@
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next for me would be to learn how to perform more functions using Lambda. I believe it would have a huge use case for DevOps teams which is my goal.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
+
