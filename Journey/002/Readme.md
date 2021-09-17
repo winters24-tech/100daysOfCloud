@@ -1,7 +1,7 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600) 
+IAM User Summary
+(https![Screen Shot 2021-09-16 at 10 28 04 PM](https://user-images.githubusercontent.com/82731990/133715477-b559f542-f619-4186-ace6-8b9545f4325a.png)
 
 # Creating an IAM user in AWS
 
