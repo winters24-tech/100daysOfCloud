@@ -24,7 +24,41 @@ Before starting this lab it would best to know what Lambda is and the many funct
 
 ### Step 1 — Summary of Step
 
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858389-3b2f8904-a7bf-42e6-b80f-819056974ab8.png)
+com/500x300)
+
+### Step 2 — Summary of Step
+
+![Screenshot](https://user-images.githubusercontent.com/82731990/133858502-4a9112a5-1eb5-4c9a-bada-3fb8b078039b.png)
+r.com/500x300)
+
+### Step 3 — Summary of Step
+
 ![Screenshot](https://via.placeholder.com/500x300)
+
+### Step 4 — Summary of Step
+
+![Screenshot](https://via.placeholder.com/500x300)
+
+### Step 5 — Summary of Step
+
+![Screenshot](https://via.placeholder.com/500x300)
+
+## ☁️ Cloud Outcome
+
+✍️ (Result) Describe your personal outcome, and lessons learned.
+
+## Next Steps
+
+Next for me would be to learn how to perform more functions using Lambda. I believe it would have a huge use case for DevOps teams which is my goal.
+
+## Social Proof
+
+✍️ Show that you shared your process on Twitter or LinkedIn
+
+[link](link)
+er-images.githubusercontent.com/82731990/133858246-d6d8ee8b-80e9-48ea-9fc5-5c196ec3392d.png)
+ceholder.com/500x300)
 
 ### Step 2 — Summary of Step
 
