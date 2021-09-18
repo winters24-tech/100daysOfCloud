@@ -1,15 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Screen Shot 2021-09-18 at 9 52 56 AM](https://user-images.githubusercontent.com/82731990/133891223-4827e23b-cd7c-40d9-a15d-77dfb0fb3382.png)
 
-# New post title here
+# Creating an Azure Virtual machine
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today's project was based from my work in my boot camp, as I'm going through and learning I went ahead captured the process that I went through in the demo to make 
+I'm paying attention and grasping the information of what is being done and shown.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic knowledge suggested, just knowing what a VM is and how they are used.
 
 ## Use Case
 
@@ -18,20 +18,19 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- This is a beginners project however there are things you still want to make sure you are doing correctly to not mess up on your creation. I'm a fan of the "back" 
+button and when I hit that it started the entire process over for creating the VM. Also when creating your resource group, make sure the name spelling is correct
+(silly mistake) but yea.. Other than than that, easy and seemless process. Enjoy the steps!
 
-## Try yourself
+### Step 1 — When creating your VM make sure you have all of your creation details at hand. (You can also see the tabs of info you will need).
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+![Screen Shot 2021-09-18 at 9 38 18 AM](https://user-images.githubusercontent.com/82731990/133891300-d7a1a299-492d-4a94-9aec-4005c6356097.png)
 
-### Step 1 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 2 — After going through the creation screens you will create your VM will need to validate and it will start deploying your resources.
 
-### Step 1 — Summary of Step
+![Screen Shot 2021-09-18 at 9 46 30 AM](https://user-images.githubusercontent.com/82731990/133891416-f8bb02da-f2cd-4d17-a907-141bfa17abb4.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
 
 ### Step 3 — Summary of Step
 
