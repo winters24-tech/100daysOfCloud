@@ -13,8 +13,9 @@ Basic knowledge suggested, just knowing what a VM is and how they are used.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- This is pretty self-explanatory as creating and running VMs is highly needed in the use case of almost every business as migrating to the cloud becomes very
+widely used.
+- But for anyone who is very new, a VM is a way to isolate each process of running an app on an OS.
 
 ## Cloud Research
 
@@ -32,20 +33,27 @@ button and when I hit that it started the entire process over for creating the V
 ![Screen Shot 2021-09-18 at 9 46 30 AM](https://user-images.githubusercontent.com/82731990/133891416-f8bb02da-f2cd-4d17-a907-141bfa17abb4.png)
 
 
-### Step 3 — Summary of Step
+### Step 3 — Next is just checking in your resource group that you created and viewing all of the resources that were deployed.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screen Shot 2021-09-18 at 10 04 37 AM](https://user-images.githubusercontent.com/82731990/133891504-ed13ef1c-bfd7-406f-9515-c9e00ca91553.png)
+
+### Step 4 — Following checking the resources, you can go into your VM and "connect" to it, downloading the RDP file. *Use your login credentials*
+
+![Screen Shot 2021-09-18 at 10 12 07 AM](https://user-images.githubusercontent.com/82731990/133891674-e96ec5de-ca9b-474d-bb0f-c08c09dc5881.png)
+
+### Step 5 — *I have and outdated OS on my mac that I forgot to update so I took the screenshot from the demo*. This image shows once you connect to the VM (in this case a fully functioning VM) and ready to run workloads.
+
+![Screen Shot 2021-09-18 at 10 18 42 AM](https://user-images.githubusercontent.com/82731990/133891888-c6e26455-2ee4-4053-b43e-f7141594b5f8.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Result: I was able to successfully create an Azure VM. I wasn't sure how it would be, I've been doing AWS more the Azure so this was an eye opener of how 
+user-friendly Azure can be and it was fun to see this process.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next, I would like to learn more about Azure and its functionality, as the cloud for me is more amazing to learn everyday!
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6843941959430656000/)
