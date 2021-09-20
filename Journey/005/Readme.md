@@ -18,10 +18,6 @@ EC2 is extrememly beneficial in the cloud and the most commonly is used for host
 
 - With working in the AWS playground you're not able to access everything, with that being said I wasn't able to connect to the EC2 console but was still provided with an image of what it would look like if I did.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
 ### Step 1 — To start we saved a lot of time by just creating a default VPC designed by AWS.
 
 ![Screen Shot 2021-09-19 at 10 04 21 PM](https://user-images.githubusercontent.com/82731990/133951307-d34a34fc-46e0-4833-b146-61ecf9ef812b.png)
