@@ -12,13 +12,11 @@ You require need an Azure subscription to perform these steps. If you don't have
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks. VNet is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, availability, and isolation.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Not much research was done. I was able to watch a tutorial and then dive into myself. The only thing for me is learning the complete navigation on Azure and knowing the connections in the services.
 
 ## Try yourself
 
@@ -73,14 +71,12 @@ They do have a free mini tutorial to show you how to perform this task as well v
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I learned how to successfully create and virtual network and connect my VMs. Not without running into trouble with my outdated mac of course.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Continue my learning as much as I can and grow!
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6843941959430656000/)
