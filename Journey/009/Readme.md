@@ -6,7 +6,7 @@ Today I chose this project because I wanted to go back to AWS to be able to comp
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Utilizing the AWS playground or any of the other virtual area and understanding S3 as a whole.
 
 ## Use Case
 
