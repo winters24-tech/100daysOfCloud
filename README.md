@@ -32,7 +32,7 @@ At the end of this challenge I would like to have join a team in a cloud role an
 - [ ] ☁️ 7 > [Day 7](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Day 8](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [My Day 9](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [10 Days Continuously!](Journey/010/Readme.md)
 
 ## Walking down the road
 
