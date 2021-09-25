@@ -11,13 +11,7 @@ Today I am extending some learning in S3, for day 9 I created a static website a
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- An S3 bucket is like a giant hard-drive in the cloud that can be used to store any number of objects
 
 ### Step 1 — First you want to go in and create your S3 bucket.
 
@@ -83,6 +77,4 @@ Never stop progressing and building knowledge.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6843941959430656000/)
