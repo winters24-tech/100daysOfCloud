@@ -4,19 +4,16 @@
 
 ## The Challenge
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+2. Update your main README to link back to your Day Journey article
+3. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 ## Steven's Cloud Journey
 
-Hi, I'm Steven an aspiring Cloud Engineer looking to learn and grown in the cloud environment and be a part of communities.
+Hi, I'm Steven an aspiring DevOps Engineer looking to learn and grown in the cloud environment and be a part of communities.
 
-I started the challenge to show that I am serious about learning and find a career.
+I started the challenge to show that I am serious about learning and finding a career.
 
-At the end of this challenge I would like to have join a team in a cloud role and gain more certifications.
+At the end of this challenge I would like to have joined a team in a cloud role and gain more certifications.
 
 - [Twitter] [@Steve__O24](https://twitter.com/steve__o24)
 - [LinkedIn] (https://www.linkedin.com/in/steven-winters-5719548a/)
