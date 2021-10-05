@@ -2,11 +2,11 @@
 
 ## Introduction
 
-✍️ Today, the goal is to start learning Kubernetes at a higher level, which is why today's topic is such.
+Today, the goal is to start learning Kubernetes at a higher level, which is why today's topic is such.
 
 ## Prerequisite
 
-✍️ For this project its recommended to have an understanding of Kubernetes. You will also need to create a terraform account and sign up with aws to utilize free tier and playground.
+For this project its recommended to have an understanding of Kubernetes. You will also need to create a terraform account and sign up with aws to utilize free tier and playground.
 
 ## Use Case
 
@@ -18,7 +18,7 @@
 
 ## Try yourself
 
-✍️ https://learn.acloud.guru/handson/24cb7511-50f6-4cfb-8c24-396d2634282e
+https://learn.acloud.guru/handson/24cb7511-50f6-4cfb-8c24-396d2634282e
 
 ### Step 1 — To start we're going to log into the lab environment and then log into the CLI and list the directories.
 
