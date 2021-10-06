@@ -35,7 +35,7 @@ At the end of this challenge I would like to have joined a team in a cloud role 
 
 - [ ] ☁️ 11 > [Day 11](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Day 12](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 13 > [Day 13](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
