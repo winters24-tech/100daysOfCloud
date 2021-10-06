@@ -65,11 +65,11 @@ https://learn.acloud.guru/handson/24cb7511-50f6-4cfb-8c24-396d2634282e
 
 ## ☁️ Cloud Outcome
 
-✍️ Successfully created and AWS EKS cluster using Terraform and added to configuration by adding a 2pod NGINX deployment and destroyed the cluster.
+Successfully created and AWS EKS cluster using Terraform and added to configuration by adding a 2pod NGINX deployment and destroyed the cluster.
 
 ## Next Steps
 
-✍️ Continue learning Kubernetes and Dockers.
+Continue learning Kubernetes and Dockers.
 
 ## Social Proof
 
