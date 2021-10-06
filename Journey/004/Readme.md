@@ -1,5 +1,3 @@
-![Screen Shot 2021-09-18 at 9 52 56 AM](https://user-images.githubusercontent.com/82731990/133891223-4827e23b-cd7c-40d9-a15d-77dfb0fb3382.png)
-
 # Creating an Azure Virtual machine
 
 ## Introduction
