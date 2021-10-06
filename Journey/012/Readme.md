@@ -1,29 +1,22 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Deploy an Azure Storage Account with Terraform
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Hi, welcome to day 12 of 100days of cloud. Today I'm continuing a little work with Terraform as I use it with Azure Storage.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Having access to a free tier account of MS Azure or AWS and utilize the labs.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Most commone use cases include: Lift and shift migration of file shares —eliminates the need to restructure or reformat data. It also enables you to keep legacy applications on-premises while benefiting from cloud storage.
 
 ## Cloud Research
 
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
 
