@@ -53,4 +53,4 @@ Continue with advancing this Linux learning.
 
 ## Social Proof
 
-[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6843941959430656000/)
+[LinkedIn](https://www.linkedin.com/in/stevenwinters24/)
