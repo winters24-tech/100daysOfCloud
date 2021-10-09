@@ -1,52 +1,40 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Working with Basic Regular Expressions
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I chose today's project of continuing Linux learning, we'll be reading some text files and redirecting some output (output that we'll decide on using regular expressions) to other text files.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Knowing Linux commands and Bash scripting.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Free tutorial: https://learn.acloud.guru/handson/71c92ea2-300d-4610-a75a-9f6ab2d8771d
 
-### Step 1 — Summary of Step
+### Step 1 — Locate HTTP Services. 
+- We'll start with using the command "grep ^http[^x] /etc/services > ~/http-services.txt" and then checking it in the new file system.
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screen Shot 2021-10-08 at 9 00 05 PM](https://user-images.githubusercontent.com/82731990/136638308-df7bb272-8ff3-4758-9dcf-e70ac1d95666.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Locate LDAP Services. Additionally checking the file system as well.
+- We want to find all of the lines in /etc/services that start with ldap. 
+- The fifth character can be any alphanumeric character, but the sixth character can not be an a. We'll dump the output into ~/lpic1-ldap.txt
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screen Shot 2021-10-08 at 9 04 40 PM](https://user-images.githubusercontent.com/82731990/136638427-d75baee0-fa3e-465a-9dcf-2613224aa624.png)
 
-### Step 3 — Summary of Step
+### Step 3 — Refine the HTTP Results. We want to read the ~/http-services.txt file that we created earlier, and just look at lines that don't end with the word service. This grep command will do it:
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screen Shot 2021-10-08 at 9 08 16 PM](https://user-images.githubusercontent.com/82731990/136638528-cc2f95ed-39ed-47ac-9153-3c5155edd6c8.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Successfully got the information from each output in the file system.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Finish up Linux learning strong
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/in/stevenwinters24/)
